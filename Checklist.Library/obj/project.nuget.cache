@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kvhdLAty+qLCMlfx6QKQ+6/AviINfSOudViypkyerMZ3XoowP5W4S7uktGP4M35mzUHBPKlv6o/3bxTtsMZsUA==",
+  "dgSpecHash": "0RCIMwepj5iXFmIF1+VrNYl2pp3PwgrwI4h7qcs1cRb1K3SBFxDkGFNr84fKtCI1DYrqA4dNkZov9lln8VPHJg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.Library\\Checklist.Library.csproj",
+  "projectFilePath": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.Library\\Checklist.Library.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tiit31lydXR8H7Z8otQW955xnKKeXiUrp7dp2ag3tWpRHAARB/Xlt4KcWcEJYKoUpLn0gBUp7GhdOyujtKJD3Q==",
+  "dgSpecHash": "WH/SRYUiwhsxDIstlU7npUM7rWQyh4+OTlVtTHVM0ryy405xqjFzeR6CHy6+bLVMlsEm1Ecl2wNNAQSGhdq5uw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.Api\\Checklist.Api.csproj",
+  "projectFilePath": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.Api\\Checklist.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uualt\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.10\\microsoft.aspnetcore.openapi.7.0.10.nupkg.sha512",
     "C:\\Users\\uualt\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",

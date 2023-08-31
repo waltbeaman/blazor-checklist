@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zOUb/0ndPMQ8pYqlABKOYk4JtpqJaAjUANH0EFQomXsbgkrEzsgaNfvB9Ns/7xHBTPqw0ZTTamdWkG5ccGkk/Q==",
+  "dgSpecHash": "InSi7nv1L1Yj5xrbUSHQSY22yMpWJ+YycBM8PuMbl5KfgQ+Ctaquw8ETPATRHZWJHmQ1IHAEjmfaEBo2USbByQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.App\\Checklist.App.csproj",
+  "projectFilePath": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.App\\Checklist.App.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\uualt\\.nuget\\packages\\microsoft.aspnetcore.authorization\\7.0.10\\microsoft.aspnetcore.authorization.7.0.10.nupkg.sha512",
     "C:\\Users\\uualt\\.nuget\\packages\\microsoft.aspnetcore.components\\7.0.10\\microsoft.aspnetcore.components.7.0.10.nupkg.sha512",

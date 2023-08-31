@@ -475,11 +475,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.Api\\Checklist.Api.csproj",
+      "projectUniqueName": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.Api\\Checklist.Api.csproj",
       "projectName": "Checklist.Api",
-      "projectPath": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.Api\\Checklist.Api.csproj",
+      "projectPath": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.Api\\Checklist.Api.csproj",
       "packagesPath": "C:\\Users\\uualt\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.Api\\obj\\",
+      "outputPath": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

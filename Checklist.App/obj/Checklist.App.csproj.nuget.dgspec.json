@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.App\\Checklist.App.csproj": {}
+    "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.App\\Checklist.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.App\\Checklist.App.csproj": {
+    "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.App\\Checklist.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.App\\Checklist.App.csproj",
+        "projectUniqueName": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.App\\Checklist.App.csproj",
         "projectName": "Checklist.App",
-        "projectPath": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.App\\Checklist.App.csproj",
+        "projectPath": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.App\\Checklist.App.csproj",
         "packagesPath": "C:\\Users\\uualt\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\uualt\\source\\repos\\BlazorChecklist\\Checklist.App\\obj\\",
+        "outputPath": "C:\\Users\\uualt\\source\\repos\\blazor-checklist\\Checklist.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
